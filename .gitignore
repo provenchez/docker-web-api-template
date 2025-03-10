@@ -1,13 +1,29 @@
-obj/Debug/net8.0/refint/API.dll
-obj/Debug/net8.0/ref/API.dll
-obj/Debug/net8.0/apphost.exe
-obj/Debug/net8.0/API.sourcelink.json
-obj/Debug/net8.0/API.pdb
-obj/Debug/net8.0/API.genruntimeconfig.cache
-obj/Debug/net8.0/API.dll
-obj/Debug/net8.0/API.csproj.FileListAbsolute.txt
-obj/Debug/net8.0/API.AssemblyInfoInputs.cache
-obj/Debug/net8.0/API.AssemblyInfo.cs
-bin/Debug/net8.0/API.pdb
-bin/Debug/net8.0/API.exe
-bin/Debug/net8.0/API.dll
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+bin/
+ob/
+packages/
