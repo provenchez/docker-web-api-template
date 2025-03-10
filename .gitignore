@@ -24,6 +24,6 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
-bin/
-ob/
-packages/
+bin
+ob
+packages
