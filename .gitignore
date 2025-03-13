@@ -25,5 +25,5 @@
 *.vsix
 
 bin
-ob
+obj
 packages
